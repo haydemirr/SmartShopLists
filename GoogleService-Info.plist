@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCxjA7PML-YfIU4X0k3_ItZz5CIvZs-v1s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>809604641868</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.huseyinaydemir.SmartShopLists</string>
+	<key>PROJECT_ID</key>
+	<string>smartshoplists</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smartshoplists.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:809604641868:ios:bf12edbb15e7927c2330e9</string>
+</dict>
+</plist>
